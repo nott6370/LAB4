@@ -1,0 +1,68 @@
+D:\s code\LAB4Encap\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.exe
+D:\s code\LAB4Encap\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.deps.json
+D:\s code\LAB4Encap\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.runtimeconfig.json
+D:\s code\LAB4Encap\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.dll
+D:\s code\LAB4Encap\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.pdb
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.AssemblyReference.cache
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.Form1.resources
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.GenerateResource.cache
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.GeneratedMSBuildEditorConfig.editorconfig
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfoInputs.cache
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfo.cs
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.CoreCompileInputs.cache
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.dll
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\refint\LAB4Encap.dll
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.pdb
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.genruntimeconfig.cache
+D:\s code\LAB4Encap\LAB4Encap\obj\Debug\net6.0-windows\ref\LAB4Encap.dll
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.exe
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.deps.json
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.runtimeconfig.json
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.dll
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.pdb
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.AssemblyReference.cache
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.Form1.resources
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.GenerateResource.cache
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfoInputs.cache
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfo.cs
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.CoreCompileInputs.cache
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.dll
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\refint\LAB4Encap.dll
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.pdb
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.genruntimeconfig.cache
+C:\Users\junti\source\repos\Lab04En\LAB4Encap\obj\Debug\net6.0-windows\ref\LAB4Encap.dll
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.exe
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.deps.json
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.runtimeconfig.json
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.dll
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.pdb
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.AssemblyReference.cache
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.Form1.resources
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.GenerateResource.cache
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfoInputs.cache
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfo.cs
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.CoreCompileInputs.cache
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.dll
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\refint\LAB4Encap.dll
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.pdb
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.genruntimeconfig.cache
+C:\Users\junti\source\repos\lab 4\lab-4-\LAB4Encap\obj\Debug\net6.0-windows\ref\LAB4Encap.dll
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.exe
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.deps.json
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.runtimeconfig.json
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.dll
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\bin\Debug\net6.0-windows\LAB4Encap.pdb
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.AssemblyReference.cache
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.Form1.resources
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.GenerateResource.cache
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfoInputs.cache
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.AssemblyInfo.cs
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.csproj.CoreCompileInputs.cache
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.dll
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\refint\LAB4Encap.dll
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.pdb
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\LAB4Encap.genruntimeconfig.cache
+C:\Users\uSeR\Desktop\CODE\L004-main\LAB4Encap\obj\Debug\net6.0-windows\ref\LAB4Encap.dll
